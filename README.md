@@ -1,12 +1,5 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,35:312E81,70:4338CA,100:9333EA&text=Ronit%20Baldaniya&fontColor=FFFFFF&fontSize=54&fontAlignY=35&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Medical%20Innovation&descAlignY=55&descSize=18&animation=fadeIn" 
-    width="100%" 
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=AI%2FML+Research;Computational+Biology;Medical+Innovation;Computer+Vision+for+Healthcare;Building+Real-World+Tech" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:4338CA,100:7C3AED&text=Ronit%20Baldaniya&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Medical%20Innovation&descAlignY=58&descSize=16" />
 </p>
 
 # Ronit Baldaniya
