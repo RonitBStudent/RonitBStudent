@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,25:111827,55:4338CA,100:9333EA&text=Ronit%20Baldaniya&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Medical%20Innovation&descAlignY=58&descSize=18&animation=twinkling&stroke=FFFFFF&strokeWidth=1" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,35:312E81,70:4338CA,100:9333EA&text=Ronit%20Baldaniya&fontColor=FFFFFF&fontSize=54&fontAlignY=35&desc=Computer%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Medical%20Innovation&descAlignY=55&descSize=18&animation=fadeIn" 
     width="100%" 
   />
 </p>
