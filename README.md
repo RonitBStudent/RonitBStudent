@@ -6,6 +6,8 @@
 
 High School Student | Leander, TX
 
+**Portfolio:** [ronit-baldaniya.vercel.app](https://ronit-baldaniya.vercel.app/#projects)
+
 ---
 
 ## About Me
