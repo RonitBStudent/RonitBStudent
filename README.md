@@ -7,6 +7,9 @@
 High School Student | Leander, TX
 
 **Portfolio:** [ronit-baldaniya.vercel.app](https://ronit-baldaniya.vercel.app/#projects)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=4338CA&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
